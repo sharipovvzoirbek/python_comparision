@@ -1,7 +1,26 @@
-a = 345
-b = 3
-c = 433
-d = 5
-answer = a%b
-zaby = c%d
-print(answer!=zaby)
+a=325
+b=312
+d=742
+e=235
+f=874
+g=344
+a1=a>=b
+print(a1)
+a2=b>=d
+print(a2)
+a3=e>=e
+print(a3)
+a4=a>=d
+print(a4)
+a5=e>=f
+print(a5)
+a6=f>=d
+print(a6)
+a7=g>=e
+print(a7)
+a8=d>=a 
+print(a8)
+a9=g>=f
+print(a9)
+a10=f>=d
+print(a10)
